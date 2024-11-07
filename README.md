@@ -4,7 +4,7 @@
 
 # 解决方案
 ---
-事实上，在parsec设置的host栏目内，自带回音消除的设置![img1]([img/Pasted image 20240220153905.png])
+事实上，在parsec设置的host栏目内，自带回音消除的设置 ![img1](img/Pasted image 20240220153905.png)
 
 但可选项中没有QQ，Kook，YY等大陆能够流畅使用的语音软件。所以需要前往高级设置中对Echo Selection这一项自定义设置自己所使用的语音软件，本案例在windows11操作系统下，以QQ（QQ.exe）为例
 
